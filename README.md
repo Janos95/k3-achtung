@@ -16,7 +16,3 @@ Achtung die Kurve (also known as Curve Fever or simply Achtung) is a multiplayer
 2. Avoid colliding with walls, your own line, or other players' lines
 3. Try to survive the longest
 
-## Technologies Used
-
-- K3 game engine
-
