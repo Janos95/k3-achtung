@@ -10,13 +10,6 @@ A simple implementation of the classic Achtung die Kurve game.
 
 Achtung die Kurve (also known as Curve Fever or simply Achtung) is a multiplayer snake-like game where players control constantly moving lines. The objective is to survive longer than your opponents by avoiding collisions with the walls, your own line, and the lines of other players.
 
-## Features
-
-- Multiplayer gameplay
-- Smooth line movement
-- Collision detection
-- Power-ups (if implemented)
-
 ## How to Play
 
 1. Use your assigned keys to steer your line
