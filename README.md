@@ -12,7 +12,7 @@ Achtung die Kurve (also known as Curve Fever or simply Achtung) is a multiplayer
 
 ## How to Play
 
-1. Use your assigned keys to steer your line
+1. Use your assigned keys to steer your line (player 1 is a+d, player 2 is left+right keys).
 2. Avoid colliding with walls, your own line, or other players' lines
 3. Try to survive the longest
 
